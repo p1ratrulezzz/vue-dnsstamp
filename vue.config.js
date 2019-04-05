@@ -1,3 +1,6 @@
 module.exports = {
-  runtimeCompiler: true
+  runtimeCompiler: true,
+  publicPath: '/vue-dnsstamp/',
+  outputDir: 'docs',
+  indexPath: 'index.htm'
 }
